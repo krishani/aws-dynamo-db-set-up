@@ -1,0 +1,1 @@
+#This project contains code to create a dynamo db table and add records to that table.
